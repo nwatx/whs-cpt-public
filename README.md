@@ -21,11 +21,12 @@ If you are looking to study for this contest, we strongly recommend checking out
 1. Find the shortest path given a directed graph (Dijkstra's).
 2. Given a list of numbers, sort the numbers by their absolute value, and then place the positive numbers before the negative numbers (Sorting).
 3. Given endpoints of "carpet layers," with form `[a, b]` determine the number of layers of carpet at any point `p` (prefix sums).
+4. Print all the shortest paths from a 3d point `a,b,c` to `d,e,f` (breadth first search).
 
 ### Hard
 
 1. Given a set of P discrete points, find a triangulation such that no point in P is inside the circumcircle of any triangle in the triangulation of P (Delaunay Triangulation).
-2. Print all the shortest paths from a 3d point `a,b,c` to `d,e,f` (breadth first search).
+2. Find the maximum distance between any two points in O(nlogn) time (Divide and Conquer Dynamic Programming).
 3. Calculate the polygon area if the lower hull were to be separated from the upper hull by a distance of `n` (Andrew's Monotone Chain).
 
 ## FAQ
