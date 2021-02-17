@@ -26,7 +26,7 @@ If you are looking to study for this contest, we strongly recommend checking out
 ### Hard
 
 1. Given a set of P discrete points, find a triangulation such that no point in P is inside the circumcircle of any triangle in the triangulation of P (Delaunay Triangulation).
-2. Find the maximum distance between any two points in O(nlogn) time (Divide and Conquer Dynamic Programming).
+2. Find the maximum distance between any two points in O(nlogn) time (Divide and Conquer).
 3. Calculate the polygon area if the lower hull were to be separated from the upper hull by a distance of `n` (Andrew's Monotone Chain).
 
 ## FAQ
