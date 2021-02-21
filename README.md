@@ -33,7 +33,7 @@ If you are looking to study for this contest, we strongly recommend checking out
 
 [Using Wolfram to speed up the problem solving process](/USINGWOLFRAM.md)
 
-[Competitive Programmer's Handbook](https://cses.fi/book/book.pdf/)
+[Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 
 [C++ Reference](http://www.cplusplus.com/reference/)
 
