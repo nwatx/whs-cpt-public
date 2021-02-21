@@ -1,6 +1,6 @@
 ## About
 
-The Westlake High School Competitive Programming Tournament (WHS-CPT) is an annual computer science competition held at Westlake. WHSCPT 2021 will be held online using the HackerRank platform. There will be one division containing a fair share of both beginner and advanced problems. For any questions go to this [Google Form](https://forms.gle/RbtGpYLuZUQuWBqv6)
+The Westlake High School Competitive Programming Tournament (WHS-CPT) is an annual computer science competition held at Westlake. WHS-CPT 2021 will be held online using the HackerRank platform. There will be one division containing a fair share of both beginner and advanced problems. For any questions go to this [Google Form](https://forms.gle/RbtGpYLuZUQuWBqv6)
 
 If you are not registered already, you can do so [here](https://forms.gle/fcmr9fb9rxgRyi49A).
 
@@ -32,6 +32,10 @@ If you are looking to study for this contest, we strongly recommend checking out
 ## Resources
 
 [Using Wolfram to speed up the problem solving process](/USINGWOLFRAM.md)
+
+[Competitive Programmer's Handbook](https://cses.fi/book/book.pdf/)
+
+[C++ Reference](http://www.cplusplus.com/reference/)
 
 ## FAQ
 
