@@ -29,6 +29,10 @@ If you are looking to study for this contest, we strongly recommend checking out
 2. Find the maximum distance between any two points in O(nlogn) time (Divide and Conquer).
 3. Calculate the polygon area if the lower hull were to be separated from the upper hull by a distance of `n` (Andrew's Monotone Chain).
 
+## Resources
+
+[Using Wolfram to speed up the problem solving process](/USINGWOLFRAM.md)
+
 ## FAQ
 
 *Q:* What is the registration fee?
