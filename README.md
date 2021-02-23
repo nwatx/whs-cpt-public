@@ -45,24 +45,28 @@ If you are looking to study for this contest, we strongly recommend checking out
 
 ## FAQ
 
-*Q:* What is the registration fee?
+_Q:_ What is the registration fee?
 
-*A:* This contest is free :)
+_A:_ This contest is free :)
 
-*Q:* How many people can be on a team?
+_Q:_ How many people can be on a team?
 
-*A:* 1-3 people
+_A:_ 1-3 people
 
-*Q:* What is the problem difficulty?
+_Q:_ What is the problem difficulty?
 
-*A:* There are several samples, although the easiest problems are almost the same as standard computer science labs while the harder ones can range up to USACO platinum difficulty.
+_A:_ There are several samples, although the easiest problems are almost the same as standard computer science labs while the harder ones can range up to USACO platinum difficulty.
 
-*Q:* What if we come across an issue during the contest?
+_Q:_ What if we come across an issue during the contest?
 
-*A:* There will be a zoom room open for you to resolve any issues within the contest (and we will post any announcements through the provided notification system).
+_A:_ There will be a zoom room open for you to resolve any issues within the contest (and we will post any announcements through the provided notification system).
 
 ## Sponsors and Platforms
 
-![Wolfram Logo](/assets/WolframLogo.png)
-
-![Github](/assets/Github_Mark.png)
+<div style='display:flex; width:full; justify-content:center; align-items:center'>
+<div style='display:flex; margin-right: 50px' >
+<a href='https://wolfram.com/'><img src='./assets/WolframLogo.png' alt='Wolfram Logo' width='200'></a>
+</div>
+<div style='display:flex;'>
+<a href='https://github.com/'><img src='./assets/Github_Mark.png' alt='Wolfram Logo' width='200'></a>
+</div>
