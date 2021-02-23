@@ -1,3 +1,5 @@
+# Westlake High School Competitive Programming Tournament (WHS-CPT)
+
 ## About
 
 The Westlake High School Competitive Programming Tournament (WHS-CPT) is an annual computer science competition held at Westlake. WHS-CPT 2021 will be held online using the HackerRank platform. There will be one division containing a fair share of both beginner and advanced problems. For any questions go to this [Google Form](https://forms.gle/RbtGpYLuZUQuWBqv6)
