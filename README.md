@@ -4,6 +4,12 @@ The Westlake High School Competitive Programming Tournament (WHS-CPT) is an annu
 
 If you are not registered already, you can do so [here](https://forms.gle/fcmr9fb9rxgRyi49A).
 
+## Prizes
+
+Thanks to a generous donation from our sponsor [Wolfram Research](https://www.wolfram.com/), we are able to provide one year of [Wolfram Alpha Pro](https://www.wolframalpha.com/pro/) and [Wolfram One](https://www.wolfram.com/wolfram-one/) (worth over $300) to each person on our top 7 advanced teams and our top 3 novice teams.
+
+For those wanting to learn more about Wolfram's intiatives and how their products can be used in all things technical, check out their website [here](https://www.wolfram.com/)!
+
 ## Problem Difficulty Samples
 
 Here are several sample topics (without the problem statement). Some of these may appear in the contest!
@@ -54,3 +60,9 @@ If you are looking to study for this contest, we strongly recommend checking out
 *Q:* What if we come across an issue during the contest?
 
 *A:* There will be a zoom room open for you to resolve any issues within the contest (and we will post any announcements through the provided notification system).
+
+## Sponsors and Platforms
+
+![Wolfram Logo](/assets/WolframLogo.png)
+
+![Github](/assets/Github_Mark.png)
