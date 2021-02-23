@@ -72,11 +72,11 @@ _A:_ There will be a zoom room open for you to resolve any issues within the con
 
 <div style='display:flex; flex-wrap:wrap; width:full; justify-content:left; align-items:center'>
 <div style='display:flex; align-items:center'>
-<a href='https://wolfram.com/' style='margin-right: 30px; object-fit:cover;'><img src='./assets/WolframLogo.png' alt='Wolfram Logo' width='200px'></a>
+<a href='https://wolfram.com/' style='margin-right:30px; '><img src='./assets/WolframLogo.png' alt='Wolfram Logo' width='200px'></a>
 <p><b>Wolfram Research</b>, for providing a <i>very</i> generous donation of prizes and a platform to verify many of our contest solutions on.</p>
 </div>
 <div style='display:flex; align-items:center'>
-<a href='https://github.com/' style='margin-right: 30px; object-fit:cover; margin-top: 20px;'><img src='./assets/Github_Mark.png' alt='Github Logo' height='150px' width='150px'></a>
+<a href='https://github.com/' style='margin-right:30px; margin-top: 20px;'><img src='./assets/Github_Mark.png' alt='Github Logo' height='auto' width='150px' style='object-fit:cover;'></a>
 <p><b>Github</b>, for providing hosting for our contest website and our contest-creation repository.</p>
 </div>
 </div>
