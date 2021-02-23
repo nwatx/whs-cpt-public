@@ -8,7 +8,7 @@ If you are not registered already, you can do so [here](https://forms.gle/fcmr9f
 
 ## Prizes
 
-Thanks to a generous donation from our sponsor [Wolfram Research](https://www.wolfram.com/), we are able to provide one year of [Wolfram Alpha Pro](https://www.wolframalpha.com/pro/) and [Wolfram One](https://www.wolfram.com/wolfram-one/) (worth over $300) to each person on our top 7 advanced teams and our top 3 novice teams.
+Thanks to a generous donation from our sponsor [Wolfram Research](https://www.wolfram.com/), we are able to provide one year of [Wolfram Alpha Pro](https://www.wolframalpha.com/pro/) and [Wolfram One](https://www.wolfram.com/wolfram-one/) (worth over $300) to **each person on our top 7 advanced teams and our top 3 novice teams.**
 
 <div style='display:flex; flex-wrap:wrap; width:full; justify-content:center; align-items:center;'>
 <a href='https://wolframalpha.com/'><img src='./assets/WALogo.png' alt='Wolfram Logo' height='100'></a>
