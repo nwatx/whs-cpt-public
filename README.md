@@ -76,7 +76,7 @@ _A:_ There will be a zoom room open for you to resolve any issues within the con
 <p><b>Wolfram Research</b>, for providing a <i>very</i> generous donation of prizes and a platform to verify many of our contest solutions on.</p>
 </div>
 <div style='display:flex; align-items:center'>
-<a href='https://github.com/' style='margin-right:30px; margin-top: 20px;'><img src='./assets/Github_Mark.png' alt='Github Logo' height='auto' width='150px' style='object-fit:cover;'></a>
+<a href='https://github.com/' style='margin-right:30px; margin-top: 20px;'><img src='./assets/Github_Mark.png' alt='Github Logo' height='auto' width='auto' style='object-fit:cover;'></a>
 <p><b>Github</b>, for providing hosting for our contest website and our contest-creation repository.</p>
 </div>
 </div>
